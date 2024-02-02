@@ -4,9 +4,9 @@
 <img src="https://raw.githubusercontent.com/zarhus/.github/main/profile/img/zarhus-logo.png" width="500" align=center/>
 </p>
 
-Inspired by the elegance and strategic prowess of the "huszár", meaning knight
-in chess (Polish: skoczek), Zarhus brings a unique blend of tradition and
-innovation to your embedded systems experience.
+Inspired by the elegance and strategic prowess of the Hungarian "huszár",
+meaning knight in chess (Polish: skoczek), Zarhus brings a unique blend of
+tradition and innovation to your embedded systems experience.
 
 ## Why Choose Zarhus?
 
@@ -37,7 +37,7 @@ Become a part of the Zarhus community:
 
 - **Chat with Us**: Join the conversation in the [Dasharo Matrix
   Workspace](https://matrix.to/#/#dasharo:matrix.org) where you can ask about
-  the Zarhus OS, Dasharo Tools Suite and more!
+  the Zarhus OS, Dasharo Tools Suite, meta-rte and more!
 - **Stay Updated**: Join our quarterly [Dasharo Events related to Zarhus OS
   elements](https://vpub.dasharo.com/) featuring:
     + **Dasharo User Group (DUG)**: A forum for Dasharo users to connect, share
