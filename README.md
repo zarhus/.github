@@ -1,2 +1,3 @@
 # .github
-Organization profile
+
+Zarhus OS GitHub profile.
